@@ -1,0 +1,10 @@
+streamlit
+agno==1.1.0
+ollama
+openai
+chromadb==0.6.3
+requests
+sqlalchemy
+pypdf
+duckduckgo-search
+nest_asyncio
